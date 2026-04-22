@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Krishna Kapoor",
+    "email": "kapoorkrishna846@gmail.com",
+    "phone": "+4917685998843",
+    "url": "https://kkapoor.info",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "kkapoor15904",
+        "url": "https://github.com/kkapoor15904"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kkapoor15",
+        "url": "https://linkedin.com/in/kkapoor15"
+      },
+      {
+        "network": "Medium",
+        "username": "kkapoor15904",
+        "url": "https://medium.com/@kkapoor15904"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Technical University of Munich",
+      "area": "Aerospace Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2025",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Karlsruhe Institute of Technology (KIT)",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2022",
+      "endDate": "2025",
+      "location": "Karlsruhe, Germany"
+    }
+  ],
+  "work": [
+    {
+      "name": "mu-zero HYPERLOOP",
+      "position": "Software",
+      "startDate": "2025",
+      "endDate": "Present",
+      "location": "Karlsruhe, Germany",
+      "summary": "Web development and backend maintenance",
+      "url": "https://mu-zero.de"
+    },
+    {
+      "name": "mu-zero HYPERLOOP",
+      "position": "Electromagnetics and Cooling Team Lead",
+      "startDate": "2024",
+      "endDate": "2025",
+      "location": "Karlsruhe, Germany",
+      "summary": "Led a team of 8 members in the Electromagnets and Cooling Department",
+      "url": "https://mu-zero.de"
+    },
+    {
+      "name": "Karlsruhe Institute of Technology",
+      "position": "AM II Tutor",
+      "startDate": "2024-04",
+      "endDate": "2024-10",
+      "location": "Karlsruhe, Germany"
+    },
+    {
+      "name": "Karlsruhe Institute of Technology",
+      "position": "AM I Tutor",
+      "startDate": "2023-10",
+      "endDate": "2024-03",
+      "location": "Karlsruhe, Germany"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Strain Rate Effects on Deformation Twinning in Cr-36.1Mo-3Si",
+      "description": "Bachelor thesis (grade 1.3) at Institut für Angewandte Materialien",
+      "startDate": "2025-10",
+      "endDate": "2026-01"
+    },
+    {
+      "name": "Physical System Simulation and Control",
+      "description": "Developing API for linear/non-linear system simulation with PID control integration",
+      "startDate": "2025",
+      "endDate": "Present"
+    },
+    {
+      "name": "Intelligent Downtime Documentation (Mercedes-Benz AG)",
+      "description": "Designed AI-powered prototype for efficient downtime documentation under Mercedes Academic Co-Creation",
+      "startDate": "2024",
+      "endDate": "2025"
+    },
+    {
+      "name": "Diamond Dielectric Characterisation",
+      "description": "Single- and polycrystalline dielectric study using superconducting LC micro-resonators",
+      "startDate": "2024-04",
+      "endDate": "2024-09"
+    },
+    {
+      "name": "Neural Network Development (from scratch)",
+      "description": "Built custom API for regression neural networks using numpy and mlx",
+      "url": "https://github.com/kkapoor15904/neural-networks",
+      "startDate": "2025",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "Data Analysis"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Next.js",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Full Stack",
+        "Database"
+      ]
+    },
+    {
+      "name": "Engineering Tools",
+      "keywords": ["CAD", "COMSOL 6.3", "Simulation", "Modelling"]
+    },
+    {
+      "name": "Design",
+      "keywords": ["Figma", "Mock-up Design"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Advanced CAD/PDM",
+      "issuer": "Karlsruhe Institute of Technology"
+    },
+    {
+      "name": "Electromagnetic Compatibility (EMC)",
+      "issuer": "Würth Elektronik Group"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "German",
+      "fluency": "B2"
+    }
+  ]
+}
