@@ -83,8 +83,8 @@
     },
     {
       "name": "Orbital Mechanics Simulations",
-      "description": "Simulation of spacecrafts in orbit",
-      "url": "https://github.com/kkapoor15904/orbital-mechanics",
+      "description": "Simulation of spacecrafts in orbit using PySide6 and VisPy.",
+      "url": "https://github.com/kkapoor15904/orbit-app",
       "startDate": "2026",
       "endDate": "Present"
     },
