@@ -82,6 +82,13 @@
       "endDate": "2026-01"
     },
     {
+      "name": "ADCS system in spacecraft using reaction wheels",
+      "description": "Simulation of an ADCS system of 3D rigid spacecraft in orbit using PySide6 and VisPy.",
+      "url": "https://github.com/kkapoor15904/rxn_wheels",
+      "startDate": "2026",
+      "endDate": "Present"
+    },
+    {
       "name": "Orbital Mechanics Simulations",
       "description": "Simulation of spacecrafts in orbit using PySide6 and VisPy.",
       "url": "https://github.com/kkapoor15904/orbit-app",
