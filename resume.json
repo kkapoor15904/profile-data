@@ -33,10 +33,10 @@
     },
     {
       "institution": "Karlsruhe Institute of Technology (KIT)",
-      "area": "Mechanical Engineering",
+      "area": "Mechanical Engineering (GPA: 2.0, German grading system)",
       "studyType": "B.Sc.",
       "startDate": "2022",
-      "endDate": "2025",
+      "endDate": "2026",
       "location": "Karlsruhe, Germany"
     }
   ],
@@ -45,9 +45,9 @@
       "name": "mu-zero HYPERLOOP",
       "position": "Software",
       "startDate": "2025",
-      "endDate": "Present",
+      "endDate": "2026",
       "location": "Karlsruhe, Germany",
-      "summary": "Web development and backend maintenance",
+      "summary": "Website redesign and enhancement using Next.js, React, TypeScript, and Drizzle ORM; web development and backend maintenance.",
       "url": "https://mu-zero.de"
     },
     {
@@ -56,19 +56,19 @@
       "startDate": "2024",
       "endDate": "2025",
       "location": "Karlsruhe, Germany",
-      "summary": "Leading a team of 8 members of the Electromagnets and Cooling Department",
+      "summary": "Led a team of 8 members in the Electromagnetics and Cooling Department. Designed and constructed a linear induction motor (LIM) test bench. Designed a multi-part cooling reservoir mount and heat exchangers. Performed FEM (von Mises stress) analyses of mounting structures for levitation and guidance electromagnets. Maintained and tested levitation electromagnets. Developed the first fully functional cooling system for levitation electromagnets and the LIM control board. Developed a Python-based kinematic bounce simulation for the friction braking system. Contributed to subsystem integration and assembly of the Hyperloop pod.",
       "url": "https://mu-zero.de"
     },
     {
       "name": "Karlsruhe Institute of Technology",
-      "position": "AM II Tutor",
+      "position": "Advanced Mathematics II Tutor (Mechanical Engineering tutorials and homework correction)",
       "startDate": "2024-04",
       "endDate": "2024-10",
       "location": "Karlsruhe, Germany"
     },
     {
       "name": "Karlsruhe Institute of Technology",
-      "position": "AM I Tutor",
+      "position": "Advanced Mathematics I Tutor (Mechanical Engineering tutorials and homework correction)",
       "startDate": "2023-10",
       "endDate": "2024-03",
       "location": "Karlsruhe, Germany"
@@ -77,20 +77,20 @@
   "projects": [
     {
       "name": "Understanding strain rate effects on deformation twinning in Cr-36.1Mo-3Si",
-      "description": "Bachelor thesis (grade 1.3) at Institut für Angewandte Materialen",
+      "description": "Bachelor thesis (grade 1.3, German grading system) at Institut für Angewandte Materialien. Prepared samples through sanding, polishing, and resin embedding; performed SEM-EDS X-ray spectroscopy and composition analysis; conducted compression tests at varying temperatures and strain rates; examined samples using light microscopy and scanning electron microscopy; analysed stress-strain curves and SEM microstructures.",
       "startDate": "2025-10",
       "endDate": "2026-01"
     },
     {
       "name": "ADCS system in spacecraft using reaction wheels",
-      "description": "Simulation of an ADCS system of 3D rigid spacecraft in orbit using PySide6 and VisPy.",
+      "description": "Python simulation of an active spacecraft attitude determination and control system (ADCS) using PySide6 and VisPy, with Euler equations of motion solved using an RK4 integrator and PID-controlled reaction wheels.",
       "url": "https://github.com/kkapoor15904/rxn_wheels",
       "startDate": "2026",
       "endDate": "Present"
     },
     {
       "name": "Orbital Mechanics Simulations",
-      "description": "Simulation of spacecrafts in orbit using PySide6 and VisPy.",
+      "description": "Python simulations of the Kepler-restricted two-body problem using Newtonian and Keplerian orbital mechanics, physical state-space integration using RK45/DOP85, and a ground-track GUI built with PySide6 and VisPy.",
       "url": "https://github.com/kkapoor15904/orbit-app",
       "startDate": "2026",
       "endDate": "Present"
@@ -119,18 +119,31 @@
       "url": "https://github.com/kkapoor15904/neural-networks",
       "startDate": "2025",
       "endDate": "Present"
+    },
+    {
+      "name": "Jet-in Crossflow Turbulent RANS Simulation",
+      "description": "Generated H-grid and O-grid meshes for a 3D pipe geometry using Ansys ICEM. Configured boundary conditions with the BSL-EARSM turbulence model in CFX-Pre. Performed simulation and post-processing in Ansys CFX, including Mach number distributions, contour plots, and polyline charts.",
+      "startDate": "2026",
+      "endDate": "2026"
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["Python", "Simulation", "Data Analysis"]
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "Simulation",
+        "Data Analysis"
+      ]
     },
     {
       "name": "Web Development",
       "keywords": [
         "Next.js",
+        "React",
         "TypeScript",
+        "Drizzle ORM",
         "HTML",
         "CSS",
         "Full Stack",
@@ -141,20 +154,59 @@
       "name": "Engineering Tools",
       "keywords": [
         "CAD",
+        "Fusion 360",
+        "Autodesk Inventor",
+        "Creo Parametric",
+        "CAD/PDM",
+        "FEM",
+        "Ansys Fluent",
+        "Ansys CFX",
+        "Ansys ICEM",
         "COMSOL 6.3",
+        "CFD",
         "Mechanical Design",
         "Simulation",
-        "Modelling"
+        "Modelling",
+        "Microsoft Office"
       ]
     },
     {
       "name": "Design",
-      "keywords": ["Figma", "Mock-up Design"]
+      "keywords": [
+        "Figma",
+        "Mock-up Design"
+      ]
+    },
+    {
+      "name": "Practical Engineering",
+      "keywords": [
+        "Test-bench Design and Construction",
+        "Cooling System Development",
+        "Subsystem Integration",
+        "Mechanical Assembly",
+        "Electromagnet Maintenance and Testing",
+        "Experimental Compression Testing",
+        "Sample Preparation",
+        "Light Microscopy",
+        "SEM",
+        "SEM-EDS"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Teamwork",
+        "Highly Motivated",
+        "Quick Learner",
+        "Reliability",
+        "Punctuality",
+        "Cultural Intelligence"
+      ]
     }
   ],
   "certificates": [
     {
-      "name": "Advanced CAD/PDM",
+      "name": "Advanced CAD/PDM for PTC Creo Parametric",
       "issuer": "Karlsruhe Institute of Technology"
     },
     {
@@ -165,7 +217,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "C1"
+      "fluency": "C2"
     },
     {
       "language": "German",
